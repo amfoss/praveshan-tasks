@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<!-- Possible Bugs are commented -->
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Crust</title>
+    <link href="images/salami-pizza.png" type="image/x-icon" />
+    <!-- display the favicon on titlebar -->
+    <link href="style.css" rel="stylesheet" />
+    <!-- link stylesheet -->
+  </head>
+  <body translate="no">
+    <div class="pizza-box">
+      <div class="left-container">
+        <img
+          src="images/pizza-crusts.png"
+          alt="chart with different types of pizza crusts"
+        />
+        <!-- display the image -->
+      </div>
+      <div class="right-container">
+        <form>
+          <!-- set form-action -->
+          <header>
+            <h1>Yay, pizza! Bake it right</h1>
+            <div class="set">
+              <div class="name">
+                <label for="name">Name</label>
+                <input id="name" placeholder="Your Name" type="text" />
+              </div>
+              <div class="home-address">
+                <label for="home-address">Address</label>
+                <input
+                  id="home-address"
+                  placeholder="Your Address"
+                  type="text"
+                />
+              </div>
+            </div>
+            <div class="set">
+              <div class="email">
+                <label for="email">Email</label>
+                <input id="email" placeholder="Your Email" type="email" />
+              </div>
+              <div class="phone-number">
+                <label for="phone-number">Phone Number</label>
+                <input
+                  id="phone-number"
+                  placeholder="Your Phone Number"
+                  type="tel"
+                />
+                <!-- set the pattern here -->
+              </div>
+            </div>
+            <div class="set">
+              <div class="gender">
+                <!-- add two radio buttons with value "Transgender" and "Others" as we are an inclusive community -->
+                <label for="gender-female">Gender</label>
+                <div class="radio-container">
+                  <input
+                    checked=""
+                    id="gender-female"
+                    name="gender"
+                    type="radio"
+                    value="female"
+                  />
+                  <label for="gender-female">Female</label>
+                  <input
+                    id="gender-male"
+                    name="gender"
+                    type="radio"
+                    value="male"
+                  />
+                  <label for="gender-male">Male</label>
+                </div>
+              </div>
+            </div>
+            <div class="set">
+              <div class="pizza-crusts">
+                <label for="pizza-crusts-thin">Pizza Crusts</label>
+                <div class="radio-container">
+                  <input
+                    checked=""
+                    id="pizza-crusts-thin"
+                    name="pizza-crusts"
+                    type="radio"
+                    value="thin"
+                  />
+                  <label for="pizza-crusts-thin">Thin</label>
+                  <input
+                    id="pizza-crusts-deep"
+                    name="pizza-crusts"
+                    type="radio"
+                    value="deep"
+                  />
+                  <label for="pizza-crusts-deep">Deep</label>
+                  <input
+                    id="pizza-crusts-pan"
+                    name="pizza-crusts"
+                    type="radio"
+                    value="pan"
+                  />
+                  <label for="pizza-crusts-pan">Pan</label>
+                  <input
+                    id="pizza-crusts-stuffed"
+                    name="pizza-crusts"
+                    type="radio"
+                    value="stuffed"
+                  />
+                  <label for="pizza-crusts-stuffed">Stuffed</label>
+                </div>
+              </div>
+            </div>
+          </header>
+          <footer>
+            <div class="set">
+              <button>Reset</button>
+              <!-- make next button work -->
+              <button
+                type="button"
+                class="next"
+                onclick="this.classList.add('button--loading')"
+              >
+                <span class="button__text">Next</span>
+            </div>
+          </footer>
+        </form>
+      </div>
+    </div>
+  </body>
+</html>

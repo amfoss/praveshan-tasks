@@ -1,0 +1,23 @@
+{
+  "name": "jsexplorer",
+  "version": "1.0.0",
+  "description": "Explore JS in a unique way",
+  "main": "page-1/form.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -c-1 -o page-1/form.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aksHITa47/JSExplorer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aksHITa47/JSExplorer/issues"
+  },
+  "homepage": "https://github.com/aksHITa47/JSExplorer#readme",
+  "dependencies": {
+    "http-server": "^13.0.1"
+  }
+}
