@@ -1,5 +1,4 @@
-function s1()
+function s1(url)
 {
-    var snd = new Audio(crash.mp3);
-    snd.play()
+    new Audio(url).play()
 }
