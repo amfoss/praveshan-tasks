@@ -1,6 +1,8 @@
 body {
   text-align: center;
   background-color: #283149;
+  font-family: "Sofia", sans-serif;
+
 }
 
 h1 {
@@ -11,31 +13,31 @@ h1 {
 }
 
 .w {
-
+  background-color: green;
 }
 
 .a {
-
+  background-color: red;
 }
 
 .s {
-
+  background-color: purple;
 }
 
 .d {
-
+  background-color: white;
 }
 
 .j {
-
+  background-color: blue;
 }
 
 .k {
-
+  background-color: greenyellow;
 }
 
 .l {
-
+  background-color: teal;
 }
 
 .set {
@@ -57,6 +59,7 @@ h1 {
 }
 
 .drum {
+  font-family: "Sofia", sans-serif;
   outline: none;
   border: 10px solid #404B69;
   font-size: 5rem;
@@ -70,5 +73,5 @@ h1 {
   height: 150px;
   text-align: center;
   margin: 10px;
-  background-color: white;
+  box-shadow: 0 3px 4px 0 black;
 }
