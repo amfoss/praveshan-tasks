@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cyar83gft5amv"
+path="res://.godot/imported/crate.obj-3e027b5923dbb1a47924718021123630.mesh"
+
+[deps]
+
+files=["res://.godot/imported/crate.obj-3e027b5923dbb1a47924718021123630.mesh"]
+
+source_file="res://assets/kenney_platformer-kit/Models/OBJ format/crate.obj"
+dest_files=["res://.godot/imported/crate.obj-3e027b5923dbb1a47924718021123630.mesh", "res://.godot/imported/crate.obj-3e027b5923dbb1a47924718021123630.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

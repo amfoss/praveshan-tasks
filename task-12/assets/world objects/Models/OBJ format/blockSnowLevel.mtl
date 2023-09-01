@@ -1,0 +1,8 @@
+# Created by Kenney (www.kenney.nl)
+
+newmtl snow
+Kd 0.9198113 0.9793453 1
+
+newmtl dirt
+Kd 0.8784314 0.5764706 0.372549
+

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://tijfbw2upeqw"
+path="res://.godot/imported/fenceBroken.obj-cbf3f72d68a7de37b323472ffbfeb09f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/fenceBroken.obj-cbf3f72d68a7de37b323472ffbfeb09f.mesh"]
+
+source_file="res://assets/kenney_platformer-kit/Models/OBJ format/fenceBroken.obj"
+dest_files=["res://.godot/imported/fenceBroken.obj-cbf3f72d68a7de37b323472ffbfeb09f.mesh", "res://.godot/imported/fenceBroken.obj-cbf3f72d68a7de37b323472ffbfeb09f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

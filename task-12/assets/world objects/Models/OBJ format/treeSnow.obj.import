@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://nx6i7l7sh2uy"
+path="res://.godot/imported/treeSnow.obj-8ebfe713062cfcd59aa603e51a523bdd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/treeSnow.obj-8ebfe713062cfcd59aa603e51a523bdd.mesh"]
+
+source_file="res://assets/kenney_platformer-kit/Models/OBJ format/treeSnow.obj"
+dest_files=["res://.godot/imported/treeSnow.obj-8ebfe713062cfcd59aa603e51a523bdd.mesh", "res://.godot/imported/treeSnow.obj-8ebfe713062cfcd59aa603e51a523bdd.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

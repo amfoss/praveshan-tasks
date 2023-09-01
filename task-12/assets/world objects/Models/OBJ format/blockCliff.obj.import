@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b4iynasu8y8d6"
+path="res://.godot/imported/blockCliff.obj-10e1ad2805cc6c0fcaab656c7a6f37cc.mesh"
+
+[deps]
+
+files=["res://.godot/imported/blockCliff.obj-10e1ad2805cc6c0fcaab656c7a6f37cc.mesh"]
+
+source_file="res://assets/kenney_platformer-kit/Models/OBJ format/blockCliff.obj"
+dest_files=["res://.godot/imported/blockCliff.obj-10e1ad2805cc6c0fcaab656c7a6f37cc.mesh", "res://.godot/imported/blockCliff.obj-10e1ad2805cc6c0fcaab656c7a6f37cc.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

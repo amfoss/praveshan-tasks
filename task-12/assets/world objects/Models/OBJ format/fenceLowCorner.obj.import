@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cafmybj0wo8a2"
+path="res://.godot/imported/fenceLowCorner.obj-ba509cd7ba7232f11a55c1cfd293bf9d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/fenceLowCorner.obj-ba509cd7ba7232f11a55c1cfd293bf9d.mesh"]
+
+source_file="res://assets/kenney_platformer-kit/Models/OBJ format/fenceLowCorner.obj"
+dest_files=["res://.godot/imported/fenceLowCorner.obj-ba509cd7ba7232f11a55c1cfd293bf9d.mesh", "res://.godot/imported/fenceLowCorner.obj-ba509cd7ba7232f11a55c1cfd293bf9d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

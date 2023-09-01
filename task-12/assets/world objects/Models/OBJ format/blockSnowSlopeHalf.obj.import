@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d1bioeajw5lly"
+path="res://.godot/imported/blockSnowSlopeHalf.obj-02ba7ddec92c2f07640d51c2ea2729de.mesh"
+
+[deps]
+
+files=["res://.godot/imported/blockSnowSlopeHalf.obj-02ba7ddec92c2f07640d51c2ea2729de.mesh"]
+
+source_file="res://assets/kenney_platformer-kit/Models/OBJ format/blockSnowSlopeHalf.obj"
+dest_files=["res://.godot/imported/blockSnowSlopeHalf.obj-02ba7ddec92c2f07640d51c2ea2729de.mesh", "res://.godot/imported/blockSnowSlopeHalf.obj-02ba7ddec92c2f07640d51c2ea2729de.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

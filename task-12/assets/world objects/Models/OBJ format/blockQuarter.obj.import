@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b5d4yt6vwfcbo"
+path="res://.godot/imported/blockQuarter.obj-4631beedad3b62cc6a5dd33542e9154e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/blockQuarter.obj-4631beedad3b62cc6a5dd33542e9154e.mesh"]
+
+source_file="res://assets/kenney_platformer-kit/Models/OBJ format/blockQuarter.obj"
+dest_files=["res://.godot/imported/blockQuarter.obj-4631beedad3b62cc6a5dd33542e9154e.mesh", "res://.godot/imported/blockQuarter.obj-4631beedad3b62cc6a5dd33542e9154e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

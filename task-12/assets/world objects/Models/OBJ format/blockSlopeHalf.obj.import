@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://besc50nkkawah"
+path="res://.godot/imported/blockSlopeHalf.obj-24c59b56eed9c6c1b816cac2cfcf521c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/blockSlopeHalf.obj-24c59b56eed9c6c1b816cac2cfcf521c.mesh"]
+
+source_file="res://assets/kenney_platformer-kit/Models/OBJ format/blockSlopeHalf.obj"
+dest_files=["res://.godot/imported/blockSlopeHalf.obj-24c59b56eed9c6c1b816cac2cfcf521c.mesh", "res://.godot/imported/blockSlopeHalf.obj-24c59b56eed9c6c1b816cac2cfcf521c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

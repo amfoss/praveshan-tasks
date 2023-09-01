@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dgmaaclrafdp6"
+path="res://.godot/imported/blockSnowCurveLow.obj-6ff5b6284a93fdbc7a80dd2cb69fbc28.mesh"
+
+[deps]
+
+files=["res://.godot/imported/blockSnowCurveLow.obj-6ff5b6284a93fdbc7a80dd2cb69fbc28.mesh"]
+
+source_file="res://assets/kenney_platformer-kit/Models/OBJ format/blockSnowCurveLow.obj"
+dest_files=["res://.godot/imported/blockSnowCurveLow.obj-6ff5b6284a93fdbc7a80dd2cb69fbc28.mesh", "res://.godot/imported/blockSnowCurveLow.obj-6ff5b6284a93fdbc7a80dd2cb69fbc28.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

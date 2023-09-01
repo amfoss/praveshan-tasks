@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cshppw02ca3ox"
+path="res://.godot/imported/rocks.obj-376913ccb79542074bce4e57880a937b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/rocks.obj-376913ccb79542074bce4e57880a937b.mesh"]
+
+source_file="res://assets/kenney_platformer-kit/Models/OBJ format/rocks.obj"
+dest_files=["res://.godot/imported/rocks.obj-376913ccb79542074bce4e57880a937b.mesh", "res://.godot/imported/rocks.obj-376913ccb79542074bce4e57880a937b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

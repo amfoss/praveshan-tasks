@@ -1,0 +1,7 @@
+cargo:rerun-if-changed=/home/user/Documents/rust/rust-toy-kernel/rusk_os/Cargo.toml
+cargo:rustc-link-search=native=/home/user/Documents/rust/rust-toy-kernel/rusk_os/target/bootimage/bootloader/x86_64-bootloader/release/build/bootloader-becb71a49ac0ea8b/out
+cargo:rustc-link-lib=static=kernel_bin-rusk_os
+cargo:rerun-if-env-changed=KERNEL
+cargo:rerun-if-env-changed=KERNEL_MANIFEST
+cargo:rerun-if-changed=/home/user/Documents/rust/rust-toy-kernel/rusk_os/target/x86_64-rusk/debug/rusk_os
+cargo:rerun-if-changed=build.rs

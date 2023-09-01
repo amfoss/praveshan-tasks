@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dpa3w04hw0mwc"
+path="res://.godot/imported/spikesLarge.obj-2345d48562a29af1744a09a8d69d47ff.mesh"
+
+[deps]
+
+files=["res://.godot/imported/spikesLarge.obj-2345d48562a29af1744a09a8d69d47ff.mesh"]
+
+source_file="res://assets/kenney_platformer-kit/Models/OBJ format/spikesLarge.obj"
+dest_files=["res://.godot/imported/spikesLarge.obj-2345d48562a29af1744a09a8d69d47ff.mesh", "res://.godot/imported/spikesLarge.obj-2345d48562a29af1744a09a8d69d47ff.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

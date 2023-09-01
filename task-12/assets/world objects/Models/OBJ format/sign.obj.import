@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cmaop4yxx2y6k"
+path="res://.godot/imported/sign.obj-038e5fd27feee1ea99b54eef0846c2e2.mesh"
+
+[deps]
+
+files=["res://.godot/imported/sign.obj-038e5fd27feee1ea99b54eef0846c2e2.mesh"]
+
+source_file="res://assets/kenney_platformer-kit/Models/OBJ format/sign.obj"
+dest_files=["res://.godot/imported/sign.obj-038e5fd27feee1ea99b54eef0846c2e2.mesh", "res://.godot/imported/sign.obj-038e5fd27feee1ea99b54eef0846c2e2.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

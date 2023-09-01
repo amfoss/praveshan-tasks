@@ -1,0 +1,8 @@
+# Created by Kenney (www.kenney.nl)
+
+newmtl blue
+Kd 0.4666666 0.572549 0.9607843
+
+newmtl metal
+Kd 0.7843137 0.8078431 0.8901961
+

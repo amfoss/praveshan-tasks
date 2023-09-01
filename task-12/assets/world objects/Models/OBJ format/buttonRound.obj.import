@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c0cilhu8f1tfs"
+path="res://.godot/imported/buttonRound.obj-edfdc4767ff57778e82dfe97767a05bb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/buttonRound.obj-edfdc4767ff57778e82dfe97767a05bb.mesh"]
+
+source_file="res://assets/kenney_platformer-kit/Models/OBJ format/buttonRound.obj"
+dest_files=["res://.godot/imported/buttonRound.obj-edfdc4767ff57778e82dfe97767a05bb.mesh", "res://.godot/imported/buttonRound.obj-edfdc4767ff57778e82dfe97767a05bb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
