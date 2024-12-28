@@ -1,5 +1,5 @@
 
-# Flame Game
+# Flutter JumpStart
 Have you ever played Shadow Fights or Super Mario? Well, what about them is familiar? One is from the smartphone era, other dates back to the 1990s. The similarity is that both are games. To be more precise, both games are in the second dimension and need us to move a character, the player, or the game's protagonist. \
 Have you ever considered creating your own character and running it wherever you please? What if we told you that by writing code in just one language, you could create a gaming application that runs on both Android and iOS mobile devices? You now have the opportunity to accomplish that. You can simply accomplish this using Google's Flutter framework. For your task, you need to make a simple flutter game in which one character can be moved to any side like the one given below. 
 
