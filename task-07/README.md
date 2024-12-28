@@ -1,4 +1,4 @@
-# AK-47°C 
+# Weather Guardian 
 
 Comrade Kalashnikov got drenched on his visit to the motherland. He was punished by his superiors for not being properly dressed.
  
