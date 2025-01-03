@@ -1,6 +1,6 @@
-# Poké-Search
+# Pokémon Rescue
 
-Poké-Search: Professor Oak's ultimate Pokémon research app for trainers worldwide!
+Pokémon Rescue: Professor Oak's ultimate Pokémon research app for trainers worldwide!
 
 Professor Oak has provided all the information you'll need to rebuild his app. He's also been thoughtful enough to capture a recording of what the app looked like before the accident. Complete all the three stages he's mentioned to complete this task successfully.
 
@@ -41,7 +41,7 @@ Professor Oak has provided all the information you'll need to rebuild his app. H
 
 
 
-###   Navigate to src and run the Poke-Search application:
+###   Navigate to src and run the Pokémon Rescue application:
 
     cd src/
     python main.py

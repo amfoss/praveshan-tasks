@@ -1,4 +1,4 @@
-# RuskOS
+# Kernal Operation
 
 A kernel is the core program around which an operating system is built. Utilising a custom inhouse kernel can mitigate potential telemetry and spyware built into an operating system such as Windows.
 
